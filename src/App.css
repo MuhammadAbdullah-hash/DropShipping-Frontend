@@ -1,0 +1,7 @@
+.custom-modal-content {
+  width: 400px !important; /* Use !important as a last resort */
+}
+
+.my-modal .modal-content {
+  width: 400px; /* Set your desired width here */
+}
